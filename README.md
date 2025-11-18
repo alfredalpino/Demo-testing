@@ -13,5 +13,5 @@ This repository is created solely for demonstration and testing purposes. It ser
 
 ## Getting Started
 
-To clone this repository to your local machine, run:
+To clone this repository to your local machine, run: https://github.com/alfredalpino/Demo-testing.git
 
